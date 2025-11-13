@@ -15,7 +15,6 @@ firebase.initializeApp({
   messagingSenderId: '284765050351',
   appId: '1:284765050351:web:84279e246fba245ab7d21a',
 })
-
 const messaging = firebase.messaging()
 
 // Evento cuando llega un mensaje en segundo plano
